@@ -1,4 +1,4 @@
-__version__ = (0, 1, 0)
+__version__ = (0, 1, 3)
 __author__ = "Robert Cope (Cope Systems)"
 
 from bottle import Request, Response, json_dumps, SimpleTemplate, static_file, request, response, HTTPResponse
